@@ -1,6 +1,6 @@
-# Let's get started
+# ✨ Let's start building ✨
 
-These notebooks are here to guide anyone through the beginning of their AI journey.
+The notebooks in this repo are single-purpose and approachable. If you haven't used Python Notebooks before, start with im-new-here.
 
 ## 0-im-new-here
 
