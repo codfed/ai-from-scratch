@@ -82,6 +82,11 @@ I want it to do things for me
 - Lovable / Bolt
 - Antigravity
 
+## Workflow
+
+- n8n
+- Zapier
+
 # Very Impressive Products
 
 - NotebookLM (Google)
